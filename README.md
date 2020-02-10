@@ -1,5 +1,7 @@
 # Debian & Ubuntu versions
 
+This list is very helpful to anyone who develops software on both Debian & Ubuntu.
+
 You can find the Debian version on which your Ubuntu version is based in the file: `/etc/debian_version`
 
 From 10.04 up to 20.04:
